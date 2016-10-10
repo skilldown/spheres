@@ -3,3 +3,5 @@
 .DS_Store
 _termite.log
 *-%-merged.scm
+syntax-case.i
+syntax-case.s
